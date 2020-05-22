@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b8926baf5b0d78d2eeb0ab0d9c50902e.js"
+  "/precache-manifest.ab0f7399e27b9ea781670cff4f150720.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "nookbook"});
