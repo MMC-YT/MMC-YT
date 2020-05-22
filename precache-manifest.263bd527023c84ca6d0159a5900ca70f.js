@@ -40,10 +40,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "1eb2e0ed1a5ceb27aa642db37f130e9f",
-    "url": "/img/animal.jpeg"
-  },
-  {
     "revision": "d5cb2dffa5828108497d7ba300fbfe40",
     "url": "/img/background.d5cb2dff.png"
   },
@@ -56,7 +52,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/logo.c0cdc79b.png"
   },
   {
-    "revision": "c0f997f64ffcaf24b66fe19d40cc2837",
+    "revision": "75652fda6a88b152b15544821ce8ce02",
+    "url": "/img/nookstamp.png"
+  },
+  {
+    "revision": "d3df11030b85fe2bbfe5bcea77e905b3",
     "url": "/index.html"
   },
   {
