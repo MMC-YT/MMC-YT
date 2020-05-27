@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.1917a3349092ae19dc6ce82a3b9cbbc7.js"
+  "/precache-manifest.6fd507d1963678bdaf0cb9467d7970ab.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "nookstamp"});
